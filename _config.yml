@@ -65,17 +65,22 @@ roles:
    start: June 2017
    end: Ongoing
    employer: University of Texas at Arlington Research Institute
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   description: • Operated on a project to track moving vehicles using a drone in real-time using RESTful services through Agile Methodology.
+                • Worked on configuring and maintaining the AWS Ubuntu AMI instances on the systems and then setting up Hadoop on the EC2 instances to process large amounts of data.
  - title: Graduate Teaching Assistant
    start: Jan 2017
    end: Ongoing
    employer: The University of Texas at Arlington
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
+   description: • Instructed students on how to build circuits on the Bitboard and design circuits using Verilog on Quartus II and test them by programming the Cyclone II FPGA Altera DE1. Grading all the labs and the exams and reporting them to professor.
+                • Communicating with the students to help them with assignments and Labs to make sure they understand the course content.
  - title: Graduate Research Assistant
    start: June 2017
    end: July 2017
    employer: The University of Texas at Arlington
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+   description: • Testing circuits based on 74XXX and testing out the boards and the FPGAs.
+                • Worked on developing a web application for inventory management system and deploying it on AWS.
+                • Proof reading manuscripts and suggesting changes to the professor before the final publication of the book.
+                • Assisted in designing the Digital Logic Lab Assignments before making it available in the course.
 
 #Education is required
 education:
@@ -90,54 +95,68 @@ education:
    school: University of Mumbai
 
  - level: Technical Diploma
-   date: July 2008
+   date: July 2011
    subject: Computer Technology
    school: Maharashtra State Board of Technical Education
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+Certifications:
+  #  profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+    - title: Java Tutorial Course
+      link: https://www.sololearn.com/Certificate/1068-4629051/pdf/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4zeNz15qT9O3MG3Za30Xiw%3D%3D
+      # optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      date: October 14, 2017
+    - title: Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+      link: https://www.coursera.org/account/accomplishments/certificate/LWGZMY5TKTEN?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4zeNz15qT9O3MG3Za30Xiw%3D%3D
+      # optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+      date: August 08, 2017
+    - title: Angular 4 from Scratch
+      link: https://udemy-certificate.s3.amazonaws.com/pdf/UC-B1KXG9HW.pdf?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4zeNz15qT9O3MG3Za30Xiw%3D%3D
+      # optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      date: February 15, 2018
+    - title: Network Analysis in Python (Part 1) Course, DataCamp
+      link: https://www.datacamp.com/statement-of-accomplishment/course/9dae6af3fcaa52b34bf790e884b4a1494c8392d5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4zeNz15qT9O3MG3Za30Xiw%3D%3D
+      # optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+      date: June 30, 2017
+    - title: Network Analysis in Python (Part 2) Course, DataCamp
+      link: https://www.datacamp.com/statement-of-accomplishment/course/01fa1618d34c04f67309d6c8107cab0acd061d6b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4zeNz15qT9O3MG3Za30Xiw%3D%3D
+      # optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      date: July 30, 2017
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
+ - rushikeshdixit/RecipeBook-Angular5
+ - rushikeshdixit/Wireless-PPT-Controller
+ - rushikeshdixit/Machine-Learning-K-Means
+ - rushikeshdixit/Machine-Learning-Naive-Bayes-Model
+ - rushikeshdixit/Machine-Learning-Linear-Regression-Model
+ - rushikeshdixit/Fitness-Tracker
+ - rushikeshdixit/AWS-Web-App
+ - rushikeshdixit/AWS-EC2-Flask-App-with-Redis
+ - rushikeshdixit/MultiThreadingFTPClientServerApplication
+ - rushikeshdixit/Hadoop-MapReduce-EC2
+ - rushikeshdixit/Cloudant-IBM-Blumix
+ - rushikeshdixit/Cloudplus-Android
+ - rushikeshdixit/IBM-Blumix-Object-Storage
+
 
 #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+# stackoverflow:
+#    profileurl: http://stackoverflow.com/users/258813/rhinds
+#    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 #Mobile apps section is optional
-apps:
- - name: Chuck the Quiz
-   platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
+# apps:
+#  - name: Chuck the Quiz
+#    platform: Android
+#    url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
+#    description: A basic early Android app (open sourced)
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
+   <strong>Web Development</strong>: My server side web development experience has largely been based on the Python Flask framework and somewhat using Express.js. I have also worked with some client side technology, having used HTML, CSS, Bootstrap, jQuery, AJAX, Javascript and have also experimented with other interesting technologies such as Angular5.<br/><br/>
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
    As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
