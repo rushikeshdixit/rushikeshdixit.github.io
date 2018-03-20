@@ -65,22 +65,22 @@ roles:
    start: June 2017
    end: Ongoing
    employer: University of Texas at Arlington Research Institute
-   description: • Operated on a project to track moving vehicles using a drone in real-time using RESTful services through Agile Methodology.
-                • Worked on configuring and maintaining the AWS Ubuntu AMI instances on the systems and then setting up Hadoop on the EC2 instances to process large amounts of data.
+   description: • Operated on a project to track moving vehicles using a drone in real-time using RESTful services through Agile Methodology.<br/>
+                • Worked on configuring and maintaining the AWS Ubuntu AMI instances on the systems and then setting up Hadoop on the EC2 instances to process large amounts of data.<br/>
  - title: Graduate Teaching Assistant
    start: Jan 2017
    end: Ongoing
    employer: The University of Texas at Arlington
-   description: • Instructed students on how to build circuits on the Bitboard and design circuits using Verilog on Quartus II and test them by programming the Cyclone II FPGA Altera DE1. Grading all the labs and the exams and reporting them to professor.
-                • Communicating with the students to help them with assignments and Labs to make sure they understand the course content.
+   description: • Instructed students on how to build circuits on the Bitboard and design circuits using Verilog on Quartus II and test them by programming the Cyclone II FPGA Altera DE1. Grading all the labs and the exams and reporting them to professor.<br/>
+                • Communicating with the students to help them with assignments and Labs to make sure they understand the course content.<br/>
  - title: Graduate Research Assistant
    start: June 2017
    end: July 2017
    employer: The University of Texas at Arlington
-   description: • Testing circuits based on 74XXX and testing out the boards and the FPGAs.
-                • Worked on developing a web application for inventory management system and deploying it on AWS.
-                • Proof reading manuscripts and suggesting changes to the professor before the final publication of the book.
-                • Assisted in designing the Digital Logic Lab Assignments before making it available in the course.
+   description: • Testing circuits based on 74XXX and testing out the boards and the FPGAs.<br/>
+                • Worked on developing a web application for inventory management system and deploying it on AWS.<br/>
+                • Proof reading manuscripts and suggesting changes to the professor before the final publication of the book.<br/>
+                • Assisted in designing the Digital Logic Lab Assignments before making it available in the course.<br/>
 
 #Education is required
 education:
@@ -100,7 +100,7 @@ education:
    school: Maharashtra State Board of Technical Education
 
 #This section is optional (as is the image link below)
-Certifications:
+certifications:
   #  profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
     - title: Java Tutorial Course
@@ -155,9 +155,7 @@ github:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
+   <strong>Software Development</strong>: Worked on Android projects with API Integration through Gradle build. Java Projects for concurrency control to run FTP commands. Compiler Construction using Scala through Maven build for a small language called Simple Programming Language (SPL). <br/><br/>
    <strong>Web Development</strong>: My server side web development experience has largely been based on the Python Flask framework and somewhat using Express.js. I have also worked with some client side technology, having used HTML, CSS, Bootstrap, jQuery, AJAX, Javascript and have also experimented with other interesting technologies such as Angular5.<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+  #  <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
+  
