@@ -9,10 +9,6 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Angular5 App
-   url: http://rushirecipebook.herokuapp.com/
- - title: Image Management App
-   url: http://rushikeshdixitimageapp.herokuapp.com/
  - title: GitHub
    url: https://github.com/rushikeshdixit
  - title: LinkedIn
@@ -20,17 +16,47 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
+ - Python
+ - Flask
+ - Software Testing
  - Java
  - Maven
  - Gradle
  - Android SDK
  - JUnit
  - JaCoCo
- - Python
- - Flask
+ - Linux / UNIX
+ - Shell Scripting
+ - Jenkins
+ - Groovy
+ - CI/CD pipelines
+ - Automation
+ - Git
+ - Gauge
+ - Selenium
+ - Appium
+ - Cucumber
+ - Rest Assured
+ - Postman
+ - Playwright
+ - JMeter
+ - VisualVM
+ - Datadog
+ - BrowserStack
+ - Kubernetes
+ - Helm
+ - Docker
+ - LDAP
+ - SAML
+ - Snowflake
+ - Databricks
  - REST
  - AWS
  - EC2
+ - EKS
+ - ECR
+ - IAM
+ - VPC
  - S3
  - RDS
  - Redis
@@ -60,19 +86,58 @@ skills:
 
 #Work experience is required
 roles:
- - title: Research Intern
-   start: June 2017
-   end: Ongoing
-   employer: University of Texas at Arlington Research Institute
-   description: • Operated on a project to track moving vehicles using a drone in real-time using RESTful services through Agile Methodology.<br/>
-                • Worked on configuring and maintaining the AWS Ubuntu AMI instances on the systems and then setting up Hadoop on the EC2 instances to process large amounts of data.<br/>
+ - title: Software Development Engineer in Test III
+   start: Feb 2023
+   end: Present
+   employer: Alation Inc.
+   description: * Led testing efforts, conducting regression tests for monthly releases and designing tests for hotfixes and patches.<br/>
+                * Directed testing and maintenance of multi-tenant environments across Kubernetes clusters, managing setup, testing, root cause analysis, and troubleshooting using Docker, Kubernetes, and Datadog.<br/>
+                * Leveraged AWS services, including S3, EKS, ECR, IAM, VPC, RDS, and also AMI cloning and restoration as part of daily responsibilities.<br/>
+                * Spearheaded automation efforts for new and existing test cases using frameworks such as Gauge, Selenium, and Python, contributed to building frameworks in Playwright with TypeScript and Jest.<br/>
+                * Onboarded and mentored three new engineers in Alation’s offshore team.<br/>
+                * Improved test stability by 80% through a Jenkins-based retry mechanism for failed tests, using Groovy, Python, and shell scripts.<br/>
+                * Automated bug reporting for failed tests via Jira APIs, with full integration with test suites run in Jenkins.<br/>
+                * Developed backup, restore, and cloning functionalities for test instances with shared RDS, reducing test execution time by 80%.<br/>
+
+ - title: Quality Engineer
+   start: July 2022
+   end: Jan 2023
+   employer: Amazon Inc.
+   description: * Test Lead for Alexa Voice and Navigation Search for Amazon Smart Vehicles team.
+                * Collaborated with Product Managers and Developers to define requirements and develop a comprehensive testing strategy, including drafting and finalizing test plans and test cases for upcoming releases.
+                * Configured hardware with Qualcomm chipsets, running shell commands to install builds and execute tests.
+                * Led offshore team efforts for manual testing, ensuring quality validation of new feature test scenarios.
+                * Automated tests using Python and Appium, validating across simulated software and hardware test environments.
+                * Participated in on-call rotations, responsible for triggering automated tests and performing root cause analysis for issues identified during testing.
+
+ - title: Senior Software Engineer in Test
+   start: Oct 2018
+   end: June 2022
+   employer: MicroStrategy Inc.
+   description: * Test Lead for Session Management on MicroStrategy Intelligence Server, overseeing testing and automation for user authorization workflows across clustered, distributed server environments.<br/>
+                * Developed and executed test plans and test cases for new features in Session Management, ensuring reliable access control across multiple client applications.<br/>
+                * Increased test coverage by 50% through automation using Java and an internal test framework, integrating REST API validation and output parsing in XML/JSON.<br/>
+                * Built additional automation frameworks with Python and Selenium to ensure 100% coverage of sanity tests for each release.<br/>
+                * Automated deployment and testing processes using Jenkins to pull binaries from S3, configure VM environments, update test repositories from Git, and trigger Cucumber tests.<br/>
+                * Enhanced the CI/CD pipeline with Python, Cucumber, and Java integration.<br/>
+                * Investigated performance and memory leak issues using JMeter, VisualVM, and custom scripts; designed scalable JMeter test plans and conducted REST API scalability and performance testing.<br/>
+                * Validated authentication protocols including SAML (via Okta), LDAP, Kerberos, and Trusted Authentication; integrated Okta for SAML 2.0 support with MicroStrategy applications.<br/>
+                * Onboarded and mentored two new hires in testing strategy and automation techniques.<br/>
+                * Set up Python-based Selenium and Appium frameworks for GUI automation across web and client applications, integrating them into Jenkins for automated build validation.<br/>
+
  - title: Graduate Teaching Assistant
    start: Jan 2017
-   end: Ongoing
+   end: May 2018
    employer: The University of Texas at Arlington
    description: • Instructed students on how to build circuits on the Bitboard and design circuits using Verilog on Quartus II and test them by programming the Cyclone II FPGA Altera DE1. Grading all the labs and the exams and reporting them to professor.<br/>
                 • Communicating with the students to help them with assignments and Labs to make sure they understand the course content.<br/>
- - title: Graduate Research Assistant
+ - title: Research Intern
+   start: June 2017
+   end: December 2017
+   employer: University of Texas at Arlington Research Institute
+   description: • Operated on a project to track moving vehicles using a drone in real-time using RESTful services through Agile Methodology.<br/>
+                • Worked on configuring and maintaining the AWS Ubuntu AMI instances on the systems and then setting up Hadoop on the EC2 instances to process large amounts of data.<br/>
+  - title: Graduate Research Assistant
    start: June 2017
    end: July 2017
    employer: The University of Texas at Arlington
