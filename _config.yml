@@ -90,61 +90,61 @@ roles:
    start: Feb 2023
    end: Present
    employer: Alation Inc.
-   description: Led testing efforts, conducting regression tests for monthly releases and designing tests for hotfixes and patches.<br/>
-                Directed testing and maintenance of multi-tenant environments across Kubernetes clusters, managing setup, testing, root cause analysis, and troubleshooting using Docker, Kubernetes, and Datadog.<br/>
-                Leveraged AWS services, including S3, EKS, ECR, IAM, VPC, RDS, and also AMI cloning and restoration as part of daily responsibilities.<br/>
-                Spearheaded automation efforts for new and existing test cases using frameworks such as Gauge, Selenium, and Python, contributed to building frameworks in Playwright with TypeScript and Jest.<br/>
-                Onboarded and mentored three new engineers in Alation’s offshore team.<br/>
-                Improved test stability by 80% through a Jenkins-based retry mechanism for failed tests, using Groovy, Python, and shell scripts.<br/>
-                Automated bug reporting for failed tests via Jira APIs, with full integration with test suites run in Jenkins.<br/>
-                Developed backup, restore, and cloning functionalities for test instances with shared RDS, reducing test execution time by 80%.<br/>
+   description: • Led testing efforts, conducting regression tests for monthly releases and designing tests for hotfixes and patches.<br/><br/>
+                • Directed testing and maintenance of multi-tenant environments across Kubernetes clusters, managing setup, testing, root cause analysis, and troubleshooting using Docker, Kubernetes, and Datadog.<br/><br/>
+                • Leveraged AWS services, including S3, EKS, ECR, IAM, VPC, RDS, and also AMI cloning and restoration as part of daily responsibilities.<br/><br/>
+                • Spearheaded automation efforts for new and existing test cases using frameworks such as Gauge, Selenium, and Python, contributed to building frameworks in Playwright with TypeScript and Jest.<br/><br/>
+                • Onboarded and mentored three new engineers in Alation’s offshore team.<br/><br/>
+                • Improved test stability by 80% through a Jenkins-based retry mechanism for failed tests, using Groovy, Python, and shell scripts.<br/><br/>
+                • Automated bug reporting for failed tests via Jira APIs, with full integration with test suites run in Jenkins.<br/><br/>
+                • Developed backup, restore, and cloning functionalities for test instances with shared RDS, reducing test execution time by 80%.<br/><br/>
 
  - title: Quality Engineer
    start: July 2022
    end: Jan 2023
    employer: Amazon Inc.
-   description: Test Lead for Alexa Voice and Navigation Search for Amazon Smart Vehicles team.
-                Collaborated with Product Managers and Developers to define requirements and develop a comprehensive testing strategy, including drafting and finalizing test plans and test cases for upcoming releases.
-                Configured hardware with Qualcomm chipsets, running shell commands to install builds and execute tests.
-                Led offshore team efforts for manual testing, ensuring quality validation of new feature test scenarios.
-                Automated tests using Python and Appium, validating across simulated software and hardware test environments.
-                Participated in on-call rotations, responsible for triggering automated tests and performing root cause analysis for issues identified during testing.
+   description: • Test Lead for Alexa Voice and Navigation Search for Amazon Smart Vehicles team.<br/><br/>
+                • Collaborated with Product Managers and Developers to define requirements and develop a comprehensive testing strategy, including drafting and finalizing test plans and test cases for upcoming releases.<br/><br/>
+                • Configured hardware with Qualcomm chipsets, running shell commands to install builds and execute tests.<br/><br/>
+                • Led offshore team efforts for manual testing, ensuring quality validation of new feature test scenarios.<br/><br/>
+                • Automated tests using Python and Appium, validating across simulated software and hardware test environments.<br/><br/>
+                • Participated in on-call rotations, responsible for triggering automated tests and performing root cause analysis for issues identified during testing.<br/><br/>
 
  - title: Senior Software Engineer in Test
    start: Oct 2018
    end: June 2022
    employer: MicroStrategy Inc.
-   description: Test Lead for Session Management on MicroStrategy Intelligence Server, overseeing testing and automation for user authorization workflows across clustered, distributed server environments.<br/>
-                Developed and executed test plans and test cases for new features in Session Management, ensuring reliable access control across multiple client applications.<br/>
-                Increased test coverage by 50% through automation using Java and an internal test framework, integrating REST API validation and output parsing in XML/JSON.<br/>
-                Built additional automation frameworks with Python and Selenium to ensure 100% coverage of sanity tests for each release.<br/>
-                Automated deployment and testing processes using Jenkins to pull binaries from S3, configure VM environments, update test repositories from Git, and trigger Cucumber tests.<br/>
-                Enhanced the CI/CD pipeline with Python, Cucumber, and Java integration.<br/>
-                Investigated performance and memory leak issues using JMeter, VisualVM, and custom scripts; designed scalable JMeter test plans and conducted REST API scalability and performance testing.<br/>
-                Validated authentication protocols including SAML (via Okta), LDAP, Kerberos, and Trusted Authentication; integrated Okta for SAML 2.0 support with MicroStrategy applications.<br/>
-                Onboarded and mentored two new hires in testing strategy and automation techniques.<br/>
-                Set up Python-based Selenium and Appium frameworks for GUI automation across web and client applications, integrating them into Jenkins for automated build validation.<br/>
+   description: • Test Lead for Session Management on MicroStrategy Intelligence Server, overseeing testing and automation for user authorization workflows across clustered, distributed server environments.<br/><br/>
+                • Developed and executed test plans and test cases for new features in Session Management, ensuring reliable access control across multiple client applications.<br/><br/>
+                • Increased test coverage by 50% through automation using Java and an internal test framework, integrating REST API validation and output parsing in XML/JSON.<br/><br/>
+                • Built additional automation frameworks with Python and Selenium to ensure 100% coverage of sanity tests for each release.<br/><br/>
+                • Automated deployment and testing processes using Jenkins to pull binaries from S3, configure VM environments, update test repositories from Git, and trigger Cucumber tests.<br/><br/>
+                • Enhanced the CI/CD pipeline with Python, Cucumber, and Java integration.<br/><br/>
+                • Investigated performance and memory leak issues using JMeter, VisualVM, and custom scripts; designed scalable JMeter test plans and conducted REST API scalability and performance testing.<br/><br/>
+                • Validated authentication protocols including SAML (via Okta), LDAP, Kerberos, and Trusted Authentication; integrated Okta for SAML 2.0 support with MicroStrategy applications.<br/><br/>
+                • Onboarded and mentored two new hires in testing strategy and automation techniques.<br/><br/>
+                • Set up Python-based Selenium and Appium frameworks for GUI automation across web and client applications, integrating them into Jenkins for automated build validation.<br/><br/>
 
  - title: Graduate Teaching Assistant
    start: Jan 2017
    end: May 2018
    employer: The University of Texas at Arlington
-   description: • Instructed students on how to build circuits on the Bitboard and design circuits using Verilog on Quartus II and test them by programming the Cyclone II FPGA Altera DE1. Grading all the labs and the exams and reporting them to professor.<br/>
-                • Communicating with the students to help them with assignments and Labs to make sure they understand the course content.<br/>
+   description: • Instructed students on how to build circuits on the Bitboard and design circuits using Verilog on Quartus II and test them by programming the Cyclone II FPGA Altera DE1. Grading all the labs and the exams and reporting them to professor.<br/><br/>
+                • Communicating with the students to help them with assignments and Labs to make sure they understand the course content.<br/><br/>
  - title: Research Intern
    start: June 2017
    end: December 2017
    employer: University of Texas at Arlington Research Institute
-   description: • Operated on a project to track moving vehicles using a drone in real-time using RESTful services through Agile Methodology.<br/>
-                • Worked on configuring and maintaining the AWS Ubuntu AMI instances on the systems and then setting up Hadoop on the EC2 instances to process large amounts of data.<br/>
+   description: • Operated on a project to track moving vehicles using a drone in real-time using RESTful services through Agile Methodology.<br/><br/>
+                • Worked on configuring and maintaining the AWS Ubuntu AMI instances on the systems and then setting up Hadoop on the EC2 instances to process large amounts of data.<br/><br/>
  - title: Graduate Research Assistant
    start: June 2017
    end: July 2017
    employer: The University of Texas at Arlington
-   description: • Testing circuits based on 74XXX and testing out the boards and the FPGAs.<br/>
-                 • Worked on developing a web application for inventory management system and deploying it on AWS.<br/>
-                 • Proof reading manuscripts and suggesting changes to the professor before the final publication of the book.<br/>
-                 • Assisted in designing the Digital Logic Lab Assignments before making it available in the course.<br/>
+   description:  • Testing circuits based on 74XXX and testing out the boards and the FPGAs.<br/><br/>
+                 • Worked on developing a web application for inventory management system and deploying it on AWS.<br/><br/>
+                 • Proof reading manuscripts and suggesting changes to the professor before the final publication of the book.<br/><br/>
+                 • Assisted in designing the Digital Logic Lab Assignments before making it available in the course.<br/><br/>
 
 #Education is required
 education:
@@ -219,7 +219,7 @@ github:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Software Development</strong>: Worked on Android projects with API Integration through Gradle build. Java Projects for concurrency control to run FTP commands. Compiler Construction using Scala through Maven build for a small language called Simple Programming Language (SPL). <br/><br/>
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Python Flask framework and somewhat using Express.js. I have also worked with some client side technology, having used HTML, CSS, Bootstrap, jQuery, AJAX, Javascript and have also experimented with other interesting technologies such as Angular5.<br/><br/>
-  #  <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
+   <strong>Software Development</strong>: Worked on Android projects with API Integration through Gradle build. Java Projects for concurrency control to run FTP commands. Compiler Construction using Scala through Maven build for a small language called Simple Programming Language (SPL). <br/><br/><br/><br/>
+   <strong>Web Development</strong>: My server side web development experience has largely been based on the Python Flask framework and somewhat using Express.js. I have also worked with some client side technology, having used HTML, CSS, Bootstrap, jQuery, AJAX, Javascript and have also experimented with other interesting technologies such as Angular5.<br/><br/><br/><br/>
+  #  <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/><br/><br/>
   
