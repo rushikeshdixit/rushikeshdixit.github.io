@@ -137,14 +137,14 @@ roles:
    employer: University of Texas at Arlington Research Institute
    description: • Operated on a project to track moving vehicles using a drone in real-time using RESTful services through Agile Methodology.<br/>
                 • Worked on configuring and maintaining the AWS Ubuntu AMI instances on the systems and then setting up Hadoop on the EC2 instances to process large amounts of data.<br/>
-  - title: Graduate Research Assistant
+ - title: Graduate Research Assistant
    start: June 2017
    end: July 2017
    employer: The University of Texas at Arlington
    description: • Testing circuits based on 74XXX and testing out the boards and the FPGAs.<br/>
-                • Worked on developing a web application for inventory management system and deploying it on AWS.<br/>
-                • Proof reading manuscripts and suggesting changes to the professor before the final publication of the book.<br/>
-                • Assisted in designing the Digital Logic Lab Assignments before making it available in the course.<br/>
+                 • Worked on developing a web application for inventory management system and deploying it on AWS.<br/>
+                 • Proof reading manuscripts and suggesting changes to the professor before the final publication of the book.<br/>
+                 • Assisted in designing the Digital Logic Lab Assignments before making it available in the course.<br/>
 
 #Education is required
 education:
