@@ -17,6 +17,9 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Python
+ - AWS (EC2, RDS, ECR, IAM, VPC, S3, EKS)
+ - Regression Testing
+ - Integration Testing
  - Flask
  - Software Testing
  - Java
@@ -51,14 +54,6 @@ skills:
  - Snowflake
  - Databricks
  - REST
- - AWS
- - EC2
- - EKS
- - ECR
- - IAM
- - VPC
- - S3
- - RDS
  - Redis
  - Load Balancing
  - Heroku
